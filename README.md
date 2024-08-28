@@ -6,7 +6,7 @@ The files named `aux1` are part of the Normaliz program. We have included the `n
 
 This work is part of a final degree project completed at the University of Cádiz.
 
-![CAP1-Ejemplo1.pdf](https://github.com/user-attachments/files/16786491/CAP1-Ejemplo1.pdf)
+![CSemigroupSample](https://github.com/user-attachments/assets/f770d44f-02b4-41f0-8da0-1d9500d486d6)
 
 ## Authors:
 - Sánchez Loureiro, Adrián
