@@ -10,7 +10,8 @@ This work is part of a final degree project completed at the University of Cádi
 - Sánchez Loureiro, Adrián
 - Vigneron Tenorio, Alberto
 
+![CSemigroupSample](https://github.com/user-attachments/assets/f770d44f-02b4-41f0-8da0-1d9500d486d6)
+
+
 ## License:
 GPL-3.0
-
-![CSemigroupSample](https://github.com/user-attachments/assets/f770d44f-02b4-41f0-8da0-1d9500d486d6)
