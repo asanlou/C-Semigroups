@@ -1,6 +1,6 @@
 # C-Semigroups Toolbox
 
-This notebook contains a set of functions developed in Mathematica for working with, visualizing, and creating examples of C-semigroups in N². To achieve this, we use the Normaliz package, an open-source tool for computations in affine monoids, vector configurations, lattice polytopes, and rational cones. Normaliz also calculates algebraic polytopes, which are polytopes defined over real algebraic extensions of Q. [Normaliz](https://www.normaliz.uni-osnabrueck.de/)
+This notebook contains a set of functions developed in Mathematica for working with, visualizing, and creating examples of C-semigroups in N². To achieve this, we use the [Normaliz](https://www.normaliz.uni-osnabrueck.de/) package, an open-source tool for computations in affine monoids, vector configurations, lattice polytopes, and rational cones. Normaliz also calculates algebraic polytopes, which are polytopes defined over real algebraic extensions of Q. 
 
 The files named `aux1` are part of the Normaliz program. We have included the `normaliz` program for Linux and `normaliz.exe` for Windows that we used in this project.
 
