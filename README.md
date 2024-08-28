@@ -15,4 +15,4 @@ This work is part of a final degree project completed at the University of Cádi
 ## License:
 GPL-3.0
 
-![](https://www.normaliz.uni-osnabrueck.de/wp-content/uploads/2015/12/Normaliz_logo_gross.png)
+![][(https://www.normaliz.uni-osnabrueck.de/wp-content/uploads/2015/12/Normaliz_logo_gross.png)](https://www.normaliz.uni-osnabrueck.de/)
