@@ -1,0 +1,15 @@
+integer number_module_generators = 1
+integer hilbert_basis_elements = 15
+integer number_vertices_polyhedron = 1
+integer number_extreme_rays = 2
+integer dim_max_subspace = 0
+integer embedding_dim = 3
+integer affine_dim_polyhedron = 2
+integer recession_rank = 2
+integer internal_index = 76
+integer number_support_hyperplanes = 3
+integer size_triangulation = 1
+integer sum_dets = 38
+boolean inhomogeneous = true
+vector 3 dehomogenization = 0 0 1 
+boolean graded = false
