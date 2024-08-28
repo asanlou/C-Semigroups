@@ -6,8 +6,6 @@ The files named `aux1` are part of the Normaliz program. We have included the `n
 
 This work is part of a final degree project completed at the University of Cádiz.
 
-![CSemigroupSample](https://github.com/user-attachments/assets/f770d44f-02b4-41f0-8da0-1d9500d486d6)
-
 ## Authors:
 - Sánchez Loureiro, Adrián
 - Vigneron Tenorio, Alberto
@@ -15,3 +13,4 @@ This work is part of a final degree project completed at the University of Cádi
 ## License:
 GPL-3.0
 
+![CSemigroupSample](https://github.com/user-attachments/assets/f770d44f-02b4-41f0-8da0-1d9500d486d6)
